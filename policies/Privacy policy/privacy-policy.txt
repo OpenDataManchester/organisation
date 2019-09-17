@@ -1,0 +1,59 @@
+Privacy Policy                                    
+This policy is effective from 2nd September 2019.
+Open Data Manchester is committed to ensuring that your privacy is protected. This privacy policy sets out how we collect, use and manage your personal data, and the controls that you have with regards to this data.
+Your use of our website constitutes your acceptance of our privacy policy. Open Data Manchester regularly reviews its policy to ensure we continue to meet current legislative requirements and the needs of our business. We will update this notice from time to time, and the latest version of this notice will always appear on this page. 
+We welcome any questions or comments in relation to this privacy policy, and advise you to direct any such communication to us at hello@opendatamanchester.org.uk.
+
+About Open Data Manchester
+In this privacy notice, references to Open Data Manchester or to ‘we’ or ‘us’ are to Open Data Manchester CIC which is a registered company in England and Wales. Our company registration number is 10906273. Our registered address is Open Data Manchester CIC, 52 Kensington Road, Manchester, United Kingdom, M21 9NU.
+Why we collect your data
+We only collect personal data that is submitted with your consent through one of our online forms, email or via signup for at one of our events, and for the purposes of marketing or communication only.
+We do not collect sensitive data such as information on health, race, sexual orientation, religion or political beliefs. The information we collect will be limited to that required for the function that we collect the data for, and that helps us to serve you.
+We do not currently collect data on your navigation and interactions on our site.
+How we collect your data
+Newsletter signups
+Our newsletter sign up form collects your name (optional) and email address, which are required to add you to our Mailchimp mailing list. We gather anonymous statistics around email opening and click rates to help us monitor and improve our newsletter. 
+If you have signed up for our newsletter, your email address will be added to our mailing list controlled and managed through Mailchimp. You may view the Mailchimp privacy policy here.
+Event and workshop sign ups
+We use Eventbrite for organising our events, which collects your name and email address, which are required to register you to attend events. We gather anonymous statistics around sign up and attendance levels to help us monitor and improve our events.
+If you sign up to one of our events or workshops, your email address will be added to our event list and controlled and managed through Eventbrite. You can read Eventbrite’s privacy policy here.
+Evaluation and feedback forms
+At our workshops we sometimes collect feedback via handwritten forms. This feedback is written up into a document and the originals are then destroyed.
+Filling out and submitting a feedback form is voluntary and anonymous, and helps us to improve our workshops and training. 
+Comments
+When visitors leave comments on the site, Wordpress collects the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+Cookies
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you have an account and you log in to this site, Wordpress will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+When you log in, Wordpress will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+How we use your data
+We do not share your personal data with any third parties.
+For newsletter subscriptions, your email address will be added to our Mailchimp mailing list and will be used for this purpose only.
+Who is responsible for your personal data?
+Internally, we make use of reasonable security measures to protect your personal information both physically and digitally (where applicable) against loss or theft, as well as unauthorised access or disclosure. Our data controller is Julian Tait and any enquiries related to personal data can be submitted to hello@opendatamanchester.org.uk.
+Your data rights
+To exercise any of your rights detailed below, please email us at hello@opendatamanchester.org.uk, make a request to us verbally at one of our events, or write to us at: 
+Open Data Manchester, 
+    Federation House,
+    2 Federation Street,
+    Manchester
+M4 4BF.
+
+We will respond as quickly as we are reasonably able to, and must do so within a month. We may need to verify your identity as part of the process of enabling you to exercise your rights, but this will not include acquiring any new information other than that we already hold. 
+Rights to access: You may contact us at any time to request a copy of the personal data we have about you on record. 
+Right to update: You may contact us to update the personal information we hold if it is no longer correct.
+Right to data portability and access: You may request a copy of any personal data we store so that you may confirm its accuracy or reuse the data for your own purposes, as well as to enquire how your data is being processed. 
+Right to opt-out or restrict processing: All direct communications will be done through email, and will only be sent to those users who have given their consent for us to do so. All email newsletters will contain an unsubscribe link, which you may use to opt-out of any further marketing communications.
+You may also request that we restrict processing of your data. This means we are able to continue to store your data, but can no longer make use of it. 
+Right to erasure: You have the right to request that we delete all personal data from our systems at any time. In some circumstances, outlined by the GDPR, we can refuse this request. In all other cases we will ensure your data is removed within one month. 
+Right to be informed: We will inform you if there is ever a security breach of our data storage systems, and of the level of risk that such a breach might entail.
+Right to object: You have the right to object or complain about how your personal data is processed. If you have any concerns about how we handle your data, please do contact us first, so that we can try to help. However, you also have the right to complain to the Information Commissioner’s Office.
+
+Links to other websites
+Our websites may contain links to other websites of interest. However, once you have used these links to leave our sites, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+This document was last updated: 17th September 2019.
+                
+
